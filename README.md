@@ -117,12 +117,16 @@ Features multiple visual styles such as <strong>Arcade, Mario and Doom</strong>,
 </a>
 </p>
 
-<!-- Connect with me -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
-</div>
+### Technologies I Know👨🏻‍💻
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,dynamodb,express,figma,supabase,firebase,github,html,go,java,spring,js,linux,md,mysql,nextjs,nodejs,postman,py,vue,react,angular,tailwind,ts,vscode,kubernetes,python,kotlin,swift,wordpress,notion,matlab,apple,stackoverflow,ubuntu,windows&perline=14" />
+  </a>
+</p>
+
+### Connect With Me 🤝
 
 <p align="center">
 <a href="https://www.linkedin.com/in/santiagobonillaguevara">
