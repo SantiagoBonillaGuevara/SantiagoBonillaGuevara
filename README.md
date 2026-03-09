@@ -116,3 +116,24 @@ Features multiple visual styles such as <strong>Arcade, Mario and Doom</strong>,
   <img width="30%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SantiagoBonillaGuevara&theme=dark&hide_border=false&langs_count=10"/>
 </a>
 </p>
+
+<!-- Connect with me -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/santiagobonillaguevara">
+<img src="https://img.shields.io/badge/LinkedIn-Santiago%20Bonilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sbonilla284@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/573205470261">
+<img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
