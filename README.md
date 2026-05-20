@@ -1,9 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, I am <a href="[https://www.linkedin.com/in/santiagobonillaguevara](https://santiagobonillaguevara.github.io)">Santiago</a> 👋</h1>
-</div>
-
-<div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGlAGLPaEJULw/profile-displaybackgroundimage-shrink_200_800/B4EZy0XXtkJsAY-/0/1772552551862?e=1774483200&v=beta&t=BBjzTLWijAmi5vPZl0KFFD36YujLEMTJB8ROtiMTSHg">
+<h1 align="center">Hello, I am <a href="https://santiagobonillaguevara.github.io">Santiago</a> 👋</h1>
 </div>
 
 ## About me
